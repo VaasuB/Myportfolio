@@ -1,0 +1,39 @@
+[
+    {
+        "id": "project1",
+        "name": "Secure Link: Real-Time Malicious URL Detection",
+        "tech_stack": ["HTML", "CSS", "JavaScript", "Python", "Scikit-learn", "BeautifulSoup", "WHOIS"],
+        "description": [
+        "Developed a extension to classify URLs and detect malicious content, using Random Forest and Multi-Layer Perceptron (MLP) models for accurate identification of phishing and malware sites.",
+        "Implemented a clean and intuitive front-end interface with HTML, CSS, and JavaScript, providing seamless integration with Chrome and Brave browsers.",
+        "Built the machine learning-powered backend with Python and Scikit-learn, utilizing BeautifulSoup and WHOIS for data collection and URL analysis.",
+        "Delivered a lightweight, real-time solution for safer browsing, with future plans for further feature expansion and deep learning integration to improve detection accuracy."
+        ],
+        "image_url":"https://i.pinimg.com/736x/d9/2a/f0/d92af0e07e1a7356eefc423c532e5ab3.jpg"
+    },
+    {
+        "id": "project2",
+        "name": "Anomaly Detection in Iot Networks",
+        "tech_stack": ["Python", "TensorFlow", "Keras", "Scikit-learn", "LSTM", "Autoencoders", "Neural Networks (ANN, MLP)"],
+        "description": [
+            "Built a system to classify cyberattacks on RPL-based IoT networks, achieving 89% accuracy with Random Forest and 84% with deep learning models like Autoencoders and CNN.",
+            "Tackled data imbalance using GANs, SMOTE, and sampling techniques, ensuring better model training and performance.",
+            "Enhanced feature selection with correlation matrices, Firefly algorithm, and autoencoders for improved accuracy and efficiency.",
+            "Highlighted the effectiveness of integrating ML and DL methods for detecting sophisticated attack patterns in IoT networks."
+
+        ],
+        "image_url":"https://i.pinimg.com/736x/a5/fd/ef/a5fdef584c483e6ee7e38fb4dc60dfb0.jpg"
+    },
+    {
+        "id": "project3",
+        "name": "Book My Turf",
+        "tech_stack": ["HTML", "CSS", "JavaScript", "React", "Node.js", "SQL" ],
+        "description": [
+            "Developed a full-stack web application to streamline the process of booking turf facilities.",
+            "Provided users with an intuitive platform to browse, book, and receive instant confirmations for turf bookings.",
+            "Enhanced the booking experience for both customers and turf owners by eliminating the need for phone calls."
+
+        ],
+        "image_url":"https://i.pinimg.com/736x/1e/cc/f5/1eccf5b1cd6c25e649266a76bf52755e.jpg"
+    }
+]
